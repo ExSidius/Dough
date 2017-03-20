@@ -1,0 +1,1 @@
+This folder contains all the images on Dough. It is further organized into sub-folders.

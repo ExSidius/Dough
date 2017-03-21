@@ -50,8 +50,8 @@ p {
 }
 
 .link_box:hover {
-  background-color: #8C72FF;
-  border: 5px solid #8C72FF;
+  background-color: #E41937;
+  border: 5px solid #E41937;
   padding: 20 px;
   border-radius: 10px;
   -moz-border-radius: 10px;
@@ -68,9 +68,8 @@ p {
   width : 220px;
 }
 
-
-/*#footer {
-  height: 60px;
-  width: 100px;
+footer {
+  height: auto;
+  width: auto;
   background-color: #5C4EFF;
-}*/
+}

@@ -20,13 +20,22 @@ h1 {
   font-size: 40px;
 }
 
+h2 {
+  font-size: 30px;
+}
+
 hr {
   border-color: #5C4EFF;
 }
 
 a {
   color: #FFFFFF;
+  font-size: 20px;
   text-decoration: none;
+}
+
+p {
+  font-size: 25px;
 }
 
 .link_box {
@@ -52,11 +61,11 @@ a {
 }
 
 #bu_box {
-  width: 150px;
+  width: 180px;
 }
 
 #umd_box {
-  width : 190px;
+  width : 220px;
 }
 
 

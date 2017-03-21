@@ -40,6 +40,17 @@ a {
   margin-right: auto;
 }
 
+.link_box:hover {
+  background-color: #8C72FF;
+  border: 5px solid #8C72FF;
+  padding: 20 px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #bu_box {
   width: 150px;
 }

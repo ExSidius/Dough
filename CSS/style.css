@@ -52,8 +52,8 @@ p {
 }
 
 .link_box:hover {
-  background-color: #E41937;
-  border: 5px solid #E41937;
+  background-color: #6666FF;
+  border: 5px solid #6666FF;
   padding: 5px;
   border-radius: 1000px;
   -moz-border-radius: 1000px;

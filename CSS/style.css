@@ -69,7 +69,10 @@ p {
 }
 
 footer {
-  height: auto;
-  width: auto;
-  background-color: #5C4EFF;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  background: #5C4EFF;
 }

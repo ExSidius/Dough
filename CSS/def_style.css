@@ -43,7 +43,7 @@ p {
 .link_box {
   background-color: #5C4EFA;
   border: 5px solid #5C4EFF;
-  padding: 5px;
+  padding: 10px;
   border-radius: 1000px;
   -moz-border-radius: 1000px;
   -webkit-border-radius: 1000px;
@@ -54,7 +54,7 @@ p {
 .link_box:hover {
   background-color: #8A80FF;
   border: 5px solid #8A80FF;
-  padding: 5px;
+  padding: 10px;
   border-radius: 1000px;
   -moz-border-radius: 1000px;
   -webkit-border-radius: 1000px;
@@ -65,7 +65,7 @@ p {
 .link_box:active {
   background-color: #2D1AFF;
   border: 5px solid #2D1AFF;
-  padding: 5px;
+  padding: 10px;
   border-radius: 1000px;
   -moz-border-radius: 1000px;
   -webkit-border-radius: 1000px;
@@ -73,19 +73,20 @@ p {
   margin-right: auto;
 }
 
-#bu_box {
+#bu_link {
   width: 180px;
 }
 
-#umd_box {
+#umd_link {
   width : 220px;
 }
+
 
 footer {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  height: 140px;
+  height: 120px;
   width: 100%;
   background: #5C4EFF;
 }

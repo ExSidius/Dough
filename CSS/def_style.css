@@ -42,8 +42,8 @@ p {
 
 .link_box {
   background-color: #5C4EFA;
-  border: 5px solid #5C4EFF;
-  padding: 10px;
+  border: 10px solid #5C4EFF;
+  padding: 5px;
   border-radius: 1000px;
   -moz-border-radius: 1000px;
   -webkit-border-radius: 1000px;
@@ -53,8 +53,8 @@ p {
 
 .link_box:hover {
   background-color: #8A80FF;
-  border: 5px solid #8A80FF;
-  padding: 10px;
+  border: 10px solid #8A80FF;
+  padding: 5px;
   border-radius: 1000px;
   -moz-border-radius: 1000px;
   -webkit-border-radius: 1000px;
@@ -64,8 +64,8 @@ p {
 
 .link_box:active {
   background-color: #2D1AFF;
-  border: 5px solid #2D1AFF;
-  padding: 10px;
+  border: 10px solid #2D1AFF;
+  padding: 5px;
   border-radius: 1000px;
   -moz-border-radius: 1000px;
   -webkit-border-radius: 1000px;

@@ -28,12 +28,6 @@ hr {
   width: 100%;
 }
 
-a {
-  color: #FFFFFF;
-  font-size: 125%;
-  text-decoration: none;
-}
-
 p {
   font-size: 160%;
 }
@@ -45,16 +39,25 @@ p {
   border-radius: 1000px;
   -moz-border-radius: 1000px;
   -webkit-border-radius: 1000px;
+  color: #FFFFFF;
+  font-size: 125%;
+  text-decoration: none;
 }
 
 .link_box:hover {
   background-color: #8A80FF;
   border: 10px solid #8A80FF;
+  color: #FFFFFF;
+  font-size: 125%;
+  text-decoration: none;
 }
 
 .link_box:active {
   background-color: #2D1AFF;
   border: 10px solid #2D1AFF;
+  color: #FFFFFF;
+  font-size: 125%;
+  text-decoration: none;
 }
 
 header {

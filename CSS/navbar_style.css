@@ -1,0 +1,17 @@
+/*All style tried to come from http://bootstrapdesigntools.com/tools/bootstrap-menu-builder/##*/
+
+/*All style initially came from https://work.smarchal.com/twbscolor/css/e74c3cc0392becf0f1ffbbbc0*/
+
+.navbar {
+  background: #5C4EFA;
+}
+.navbar .navbar-brand {
+  color: #FFFFFF;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 900;
+  font-size: 200%;
+}
+
+.navbar .nav {
+  color: #FFFFFF;
+}

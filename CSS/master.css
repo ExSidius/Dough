@@ -59,6 +59,14 @@ p {
   margin: 6%;
 }
 
+/*.navbar-brand {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 900;
+  text-align: left;
+  color: #5C4EFF;
+  font-size: 250%;
+}*/
+
 header {
   top: 20px;
   font-family: "Josefin Sans", sans-serif;

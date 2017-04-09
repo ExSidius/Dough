@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Slabo+27px|Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Raleway|Slabo+27px|Josefin+Sans');
 
 @font-face {
   font-family: 'Raleway', sans-serif;
@@ -6,24 +6,6 @@
 
 @font-face {
   font-family: 'Slabo 27px', serif;
-}
-
-@media (max-width: 978px) {
-  #full_page {
-    height: 100%;
-  }
-
-  #slogan {
-    margin: 20px;
-  }
-
-  #external_links {
-    margin: 20px;
-  }
-
-  #button_space {
-    margin: 20px;
-  }
 }
 
 * {
@@ -35,10 +17,6 @@ h2 {
   font-size: 200%;
 }
 
-hr {
-  border-color: #5C4EFF;
-  width: 100%;
-}
 
 p {
   font-size: 160%;
@@ -57,7 +35,10 @@ p {
 
 .link_box:hover {
   background-color: #8A80FF;
-  border: 10px solid #8A80FF;
+  border: 12px solid #8A80FF;
+  border-radius: 1000px;
+  -moz-border-radius: 1000px;
+  -webkit-border-radius: 1000px;
   color: #FFFFFF;
   font-size: 125%;
   text-decoration: none;
@@ -65,14 +46,30 @@ p {
 
 .link_box:active {
   background-color: #2D1AFF;
-  border: 10px solid #2D1AFF;
+  border: 12px solid #2D1AFF;
+  border-radius: 1000px;
+  -moz-border-radius: 1000px;
+  -webkit-border-radius: 1000px;
   color: #FFFFFF;
   font-size: 125%;
   text-decoration: none;
 }
 
+.row {
+  margin: 6%;
+}
+
 header {
-  height: 20%;
+  top: 20px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 900;
+  text-align: left;
+  color: #5C4EFF;
+  font-size: 250%;
+  /*left: 0px;
+  bottom: 0px;
+  height: 10%;
+  background-color: #5C4EFF;*/
 }
 
 footer {
@@ -85,24 +82,7 @@ footer {
   color: #FFFFFF;
 }
 
-#siteTitle {
-  font-family: "Satisfy", sans-serif;
-  color: #5C4EFF;
-  font-size: 250%;
-}
-
-#full_page {
-  height: 100%;
-}
 
 #slogan {
-  margin: 4%;
-}
-
-#external_links {
-  margin: 4%;
-}
-
-#button_space {
-  margin: 4%;
+  margin-top: 4%;
 }

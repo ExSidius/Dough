@@ -6,17 +6,11 @@
   background: #5C4EFA;
 }
 .navbar .navbar-brand {
-  /*margin-left: 15% !important;*/
   color: #FFFFFF;
   font-family: "Josefin Sans", sans-serif;
   font-weight: 900;
   font-size: 200%;
 }
-
-/*.navbar .navbar-nav {
-  color: #FFFFFF;
-  font-family: "Josefin Sans", sans-serif;
-}*/
 
 .my-nav-links {
   color: #FFFFFF !important;
@@ -42,9 +36,5 @@
 }
 
 .line-right {
-  border-right: 5px !important;
-}
-
-#menuItems {
-  /*margin-right: 2% !important;*/
+  border-right: 1px solid #FFFFFF !important;
 }

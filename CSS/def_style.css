@@ -8,15 +8,27 @@
   font-family: 'Slabo 27px', serif;
 }
 
-* {
-  font-family: "Raleway", serif;
-  text-align: center;
+@media (max-width: 978px) {
+  #full_page {
+    height: 100%;
+  }
+
+  #slogan {
+    margin: 6%;
+  }
+
+  #external_links {
+    margin: 10%;
+  }
+
+  #button_space {
+    margin: 10%;
+  }
 }
 
-h1 {
-  font-family: "Satisfy", sans-serif;
-  color: #5C4EFF;
-  font-size: 250%;
+* {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
 }
 
 h2 {
@@ -31,7 +43,6 @@ hr {
 p {
   font-size: 160%;
 }
-
 
 .link_box {
   background-color: #5C4EFA;
@@ -71,6 +82,12 @@ footer {
   height: 20%;
   width: 100%;
   background: #5C4EFF;
+}
+
+#siteTitle {
+  font-family: "Satisfy", sans-serif;
+  color: #5C4EFF;
+  font-size: 250%;
 }
 
 #full_page {

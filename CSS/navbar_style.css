@@ -24,8 +24,21 @@
   font-family: "Josefin Sans", sans-serif;
 }
 
+
 .icon-bar {
   background: #FFFFFF !important;
+}
+
+.navbar-toggle {
+  background: #5C4EFA !important; /*Whatever colour you want for background */
+}
+
+.navbar-toggle:hover {
+  background: #8A80FF !important; /*Whatever colour you want for background */
+}
+
+.navbar-toggle:active {
+  background: #2D1AFF !important; /*Whatever colour you want for background */
 }
 
 #menuItems {

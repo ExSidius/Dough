@@ -6,13 +6,24 @@
   background: #5C4EFA;
 }
 .navbar .navbar-brand {
+  margin-left: 15% !important;
   color: #FFFFFF;
   font-family: "Josefin Sans", sans-serif;
   font-weight: 900;
   font-size: 200%;
 }
 
-.navbar .navbar-nav {
+/*.navbar .navbar-nav {
   color: #FFFFFF;
   font-family: "Josefin Sans", sans-serif;
+}*/
+
+.my-nav-links {
+  color: #FFFFFF !important;
+  font-size: 150%;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+#menuItems {
+  margin-right: 2% !important;
 }

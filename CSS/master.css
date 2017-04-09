@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Slabo+27px|Josefin+Sans');
 
+@@font-face {
+  font-family: "Josefin Sans", sans-serif;
+}
+
 @font-face {
   font-family: 'Raleway', sans-serif;
 }
@@ -9,7 +13,7 @@
 }
 
 * {
-  font-family: "Raleway", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   text-align: center;
 }
 

@@ -41,6 +41,10 @@
   background: #2D1AFF !important; /*Whatever colour you want for background */
 }
 
+.line-right {
+  border-right: 5px !important;
+}
+
 #menuItems {
   /*margin-right: 2% !important;*/
 }

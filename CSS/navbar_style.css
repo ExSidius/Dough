@@ -12,6 +12,13 @@
   font-size: 200%;
 }
 
+.navbar .navbar-brand:active {
+  color: #FFFFFF;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 900;
+  font-size: 200%;
+}
+
 .my-nav-links {
   color: #FFFFFF !important;
   font-size: 150%;

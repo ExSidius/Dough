@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Slabo+27px|Palanquin:200');
+@import url('https://fonts.googleapis.com/css?family=Raleway|Slabo+27px|Satisfy');
 
 @font-face {
   font-family: 'Raleway', sans-serif;
@@ -86,10 +86,9 @@ footer {
 }
 
 #siteTitle {
-  font-family: "Palanquin:200", sans-serif;
+  font-family: "Satisfy", sans-serif;
   color: #5C4EFF;
   font-size: 250%;
-  text-align: left;
 }
 
 #full_page {

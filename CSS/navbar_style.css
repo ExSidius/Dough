@@ -12,6 +12,7 @@
   font-size: 200%;
 }
 
-.navbar .nav {
+.navbar .navbar-nav {
   color: #FFFFFF;
+  font-family: "Josefin Sans", sans-serif;
 }

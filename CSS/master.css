@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Slabo+27px|Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway|Slabo+27px|Josefin+Sans');
 
-@@font-face {
+@font-face {
   font-family: "Josefin Sans", sans-serif;
 }
 
@@ -13,7 +13,7 @@
 }
 
 * {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   text-align: center;
 }
 
@@ -66,13 +66,13 @@ p {
   margin: 6%;
 }
 
-/*.navbar-brand {
+.navbar-brand {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 900;
   text-align: left;
   color: #5C4EFF;
   font-size: 250%;
-}*/
+}
 
 header {
   top: 20px;
